@@ -1,4 +1,4 @@
-const vatCalculator  = require('../src/utilities/vatCalculator')
+const vatCalculator  = require('../src/utilities/vatCalc')
 
 describe("VAT calculator", ()=>{
     test("Should return the correct VAT excluded amount for 20% VAT",()=>{

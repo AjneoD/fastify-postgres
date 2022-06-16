@@ -1,4 +1,4 @@
-const vatCalculator = require('../../utilities/vatCalculator')
+const vatCalculator = require('../../utilities/vatCalc')
 const Item = {
     type: "object",
     properties: {

@@ -1,7 +1,7 @@
 let items = [
-  { id: "1", name: "First Todo", description: "First Todo Description" },
-  { id: "2", name: "Second Todo", description: "Second Todo Description" },
-  { id: "3", name: "Third Todo", description: "Third Todo Description" },
+  { id: "1", name: "Item 1", description: "hello 1" },
+  { id: "2", name: "Item 2", description: "hello 2" },
+  { id: "3", name: "Item 3", description: "hello 3" },
 ];
 
 module.exports = items;
